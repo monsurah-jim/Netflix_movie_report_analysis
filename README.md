@@ -16,17 +16,29 @@ The data was cleaned using excel before saving it has a csv file then imported i
 
 # Brief Explanation of the columns
 Show_id: This is a number that is given to each show
+
 Type: It consist of two types and they are movie and tv shows
+
 Title: The name given to show, so it will be easier to navigate on the platform
+
 Directors: They direct and give instruction on how they want to show to come out
+
 Country: The location of the show
+
 Date_added: The precise date the movie or show was aired on the platform
+
 Released_year : The year the movie was released 
+
 Rating : The feedback they got from the public
+
 Duration: How long it took the complete watching the show or movie
+
 Listed_in: This show if the movie is R rated or its suitable for children to watch
+
 Month_added: It shows the month the movie is made available on the platform
+
 Day_added: The day it was added on the patform
+
 Year_added: The year the show was added on the netflix platform
 
 # Result of the analysis 
