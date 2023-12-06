@@ -43,7 +43,7 @@ Year_added: The year the show was added on the netflix platform
 
 # Result of the analysis 
 # What is the total number of records in the dataset? 
-## There are 8769 datasets
+## There are 8790 datasets
 <img width="403" alt="image" src="https://github.com/monsurah-jim/Netflix_movie_report_analysis/assets/148765480/5234fc42-2acf-4735-8809-419a52151ba6">
 
 # What is the cotent count by country?
@@ -71,7 +71,7 @@ Year_added: The year the show was added on the netflix platform
 ## Top 10 titles with their ratingss ranging from PG 13 to TV Y7(7 years old)
 <img width="485" alt="image" src="https://github.com/monsurah-jim/Netflix_movie_report_analysis/assets/148765480/9f7a5aa2-accd-4ce0-9647-126dd89c18c1">
 
-# how many unique countries are represented in the dataset?
+# How many unique countries are represented in the dataset?
 ##  86 unique countries are mentioned
 <img width="424" alt="image" src="https://github.com/monsurah-jim/Netflix_movie_report_analysis/assets/148765480/0a2cbf6d-5c71-47ee-83ec-1db7e227e461">
 
