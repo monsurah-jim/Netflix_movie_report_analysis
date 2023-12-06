@@ -46,7 +46,7 @@ Year_added: The year the show was added on the netflix platform
 # There are 8769 datasets
 <img width="403" alt="image" src="https://github.com/monsurah-jim/Netflix_movie_report_analysis/assets/148765480/5234fc42-2acf-4735-8809-419a52151ba6">
 
-# cotent count by country?
+# What is the cotent count by country?
 ## There are five countries that provides contents and thery are United State with 3240,France with 213, Brazil with 88,United Kingdom with 638 and India with 1057
 <img width="459" alt="image" src="https://github.com/monsurah-jim/Netflix_movie_report_analysis/assets/148765480/4be11014-517f-4a01-87ec-f099ccdeffcc">
 
@@ -55,7 +55,7 @@ Year_added: The year the show was added on the netflix platform
 <img width="435" alt="image" src="https://github.com/monsurah-jim/Netflix_movie_report_analysis/assets/148765480/9e2f9fc1-e0d9-40ea-943d-cf170c3a18f6">
 
 # oldest content on netflix by released year
-## The oldest content released wastitled pioneers: First women filmmakers  in 1925
+## The oldest content released was titled pioneers: First women filmmakers  in 1925
 <img width="464" alt="image" src="https://github.com/monsurah-jim/Netflix_movie_report_analysis/assets/148765480/027a91c5-d9b6-494a-bc79-b3f5de9a6cbf">
 
 # Who are the directors with the most movies in the dataset
