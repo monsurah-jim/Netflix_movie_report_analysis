@@ -42,8 +42,8 @@ Day_added: The day it was added on the patform
 Year_added: The year the show was added on the netflix platform
 
 # Result of the analysis 
-## What is the total number of records in the dataset? 
-# There are 8769 datasets
+# What is the total number of records in the dataset? 
+## There are 8769 datasets
 <img width="403" alt="image" src="https://github.com/monsurah-jim/Netflix_movie_report_analysis/assets/148765480/5234fc42-2acf-4735-8809-419a52151ba6">
 
 # What is the cotent count by country?
