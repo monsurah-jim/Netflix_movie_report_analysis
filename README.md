@@ -46,7 +46,7 @@ Year_added: The year the show was added on the netflix platform
 ## There are 8790 datasets
 <img width="403" alt="image" src="https://github.com/monsurah-jim/Netflix_movie_report_analysis/assets/148765480/5234fc42-2acf-4735-8809-419a52151ba6">
 
-# What is the cotent count by country?
+# What is the content count by country?
 ## There are five countries that provides contents and thery are United State with 3240,France with 213, Brazil with 88,United Kingdom with 638 and India with 1057
 <img width="459" alt="image" src="https://github.com/monsurah-jim/Netflix_movie_report_analysis/assets/148765480/4be11014-517f-4a01-87ec-f099ccdeffcc">
 
